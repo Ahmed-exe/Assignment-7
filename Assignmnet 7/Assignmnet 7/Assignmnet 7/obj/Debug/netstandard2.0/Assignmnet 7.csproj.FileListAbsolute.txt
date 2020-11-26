@@ -1,0 +1,14 @@
+C:\MPS Assignments\Ass 7\Assignmnet 7\Assignmnet 7\Assignmnet 7\bin\Debug\netstandard2.0\Assignmnet 7.deps.json
+C:\MPS Assignments\Ass 7\Assignmnet 7\Assignmnet 7\Assignmnet 7\bin\Debug\netstandard2.0\Assignmnet 7.dll
+C:\MPS Assignments\Ass 7\Assignmnet 7\Assignmnet 7\Assignmnet 7\bin\Debug\netstandard2.0\ref\Assignmnet 7.dll
+C:\MPS Assignments\Ass 7\Assignmnet 7\Assignmnet 7\Assignmnet 7\bin\Debug\netstandard2.0\Assignmnet 7.pdb
+C:\MPS Assignments\Ass 7\Assignmnet 7\Assignmnet 7\Assignmnet 7\obj\Debug\netstandard2.0\Assignmnet 7.csprojAssemblyReference.cache
+C:\MPS Assignments\Ass 7\Assignmnet 7\Assignmnet 7\Assignmnet 7\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\MPS Assignments\Ass 7\Assignmnet 7\Assignmnet 7\Assignmnet 7\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\MPS Assignments\Ass 7\Assignmnet 7\Assignmnet 7\Assignmnet 7\obj\Debug\netstandard2.0\Assignmnet 7.AssemblyInfoInputs.cache
+C:\MPS Assignments\Ass 7\Assignmnet 7\Assignmnet 7\Assignmnet 7\obj\Debug\netstandard2.0\Assignmnet 7.AssemblyInfo.cs
+C:\MPS Assignments\Ass 7\Assignmnet 7\Assignmnet 7\Assignmnet 7\obj\Debug\netstandard2.0\Assignmnet 7.csproj.CoreCompileInputs.cache
+C:\MPS Assignments\Ass 7\Assignmnet 7\Assignmnet 7\Assignmnet 7\obj\Debug\netstandard2.0\XamlC.stamp
+C:\MPS Assignments\Ass 7\Assignmnet 7\Assignmnet 7\Assignmnet 7\obj\Debug\netstandard2.0\Assignmnet 7.dll
+C:\MPS Assignments\Ass 7\Assignmnet 7\Assignmnet 7\Assignmnet 7\obj\Debug\netstandard2.0\ref\Assignmnet 7.dll
+C:\MPS Assignments\Ass 7\Assignmnet 7\Assignmnet 7\Assignmnet 7\obj\Debug\netstandard2.0\Assignmnet 7.pdb

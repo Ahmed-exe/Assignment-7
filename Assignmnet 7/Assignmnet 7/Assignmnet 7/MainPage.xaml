@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Assignmnet_7.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="ForestGreen" Padding="14" CornerRadius="0">
+            <Label Text="WhatsApp" HorizontalTextAlignment="Start" TextColor="White" FontSize="37"/>
+        </Frame>   
+        
+    <Grid>
+        
+        <Grid.RowDefinitions>
+            
+            <RowDefinition Height="50" />
+            <RowDefinition Height="50" />
+            <RowDefinition Height="40" />
+            
+        </Grid.RowDefinitions>
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        
+        <BoxView Color="Green" />
+        <Label Text="Chats"
+               HorizontalOptions="Center"
+               VerticalOptions="Center" />
+        
+        <BoxView Grid.Column="1" Color="Green"/>
+        <Label Grid.Column="1" Text="Status" HorizontalOptions="Center" VerticalOptions="Center" />
+        
+        <BoxView Grid.Row="1" Color="Green" />
+        <Label Grid.Row="1" Text="Calls" HorizontalOptions="Center" VerticalOptions="Center" />
+        
+        <BoxView Grid.Row="3"
+                 Grid.ColumnSpan="3"
+                 Color="Beige" />
+        <Label Grid.Row="3"
+               Grid.ColumnSpan="3"
+               Text="Community Safety Group"
+               HorizontalOptions="Start"
+               VerticalOptions="Center" />
+
+        <BoxView Grid.Row="2"
+                 Grid.ColumnSpan="3"
+                 Color="Beige" />
+        <Label Grid.Row="2"
+               Grid.ColumnSpan="3"
+               Text="Bob"
+               HorizontalOptions="Start"
+               VerticalOptions="Center" />
+    </Grid>
+    
+    </StackLayout>
+</ContentPage>
